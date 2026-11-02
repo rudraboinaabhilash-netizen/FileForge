@@ -1,0 +1,10 @@
+{
+  "name": "FileForge",
+  "short_name": "FileForge",
+  "description": "Easy tools for your files. Private, simple and free.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071525",
+  "theme_color": "#071525",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
